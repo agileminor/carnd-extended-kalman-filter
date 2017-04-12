@@ -17,20 +17,20 @@ The goals / steps of this project are the following:
 
 ###Results
 Results for Sample Data 1:
-	Accuracy - RMSE:
-	0.0646304
-	0.0602318
-	0.499182
-	0.537062
+	Accuracy - RMSE: 
+	0.0646304 - X position
+	0.0602318 - Y position
+	0.499182 - X velocity
+	0.537062 - Y velocity
 
 ![alt text][sample_data1]
 
 
 Results for Sample Data 2:
-	Accuracy - RMSE:
-	0.195953 - X position
-	0.190227 - Y position
-	0.41264 - X velocity
+	Accuracy - RMSE: 
+	0.195953 - X position 
+	0.190227 - Y position 
+	0.41264 - X velocity 
 	0.803128 - Y velocity
 
 ![alt text][sample_data2]
